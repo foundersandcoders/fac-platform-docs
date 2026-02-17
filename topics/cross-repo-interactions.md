@@ -1,4 +1,4 @@
-# Cross-Repo Interaction Analysis: fac-cra, fac-web, fac-distribution
+# Cross-Repo Interaction Analysis: How `fac-cra`, `fac-web` & `fac-distribution` Affect Each Other
 
 > Investigation date: 2026-02-11
 > Scope: How three FAC platform repos interact, contradict, and create implications for developers with partial access.
